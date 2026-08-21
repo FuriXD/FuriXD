@@ -5,8 +5,7 @@
   <a href="https://github.com/FuriXD?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20repositories-23-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="23 public repositories" />
   </a>
-  <a href="https://github.com/FuriXD?tab=followers">
-    <img src="https://img.shields.io/github/followers/FuriXD?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="GitHub followers" />
+
   </a>
 </p>
 
@@ -23,7 +22,7 @@
 - 🤝 Looking for help with [Drone Simulator](https://github.com/FuriXD/Drone-SIM)
 - 💬 Ask me about **Python and my projects**
 - 📫 Reach me at **arizsolo1@gmail.com**
-- ⚡ Fun fact: **Completed the entire Assassin's Creed franchise**
+- ⚡ Fun fact: **Completed the entire Assassin's Creed and Mafia franchise**
 
 ## Connect with me
 
