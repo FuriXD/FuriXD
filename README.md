@@ -37,7 +37,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FuriXD&theme=github_dark" alt="FuriXD's GitHub statistics, including stars received" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FuriXD&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="FuriXD's contribution streak" />
+
 </p>
 
 <p align="center">
