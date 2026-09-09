@@ -34,15 +34,11 @@ I am a developer interested in applying machine learning and data-driven approac
 **Frameworks & platforms:** Django, Firebase, MongoDB, MySQL, SQLite, AWS, Google Cloud  
 **Tools:** Git, Linux, Figma
 
-## GitHub activity
+## GitHub analytics
 
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FuriXD&theme=github_dark" alt="FuriXD GitHub statistics" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FuriXD&theme=github_dark" alt="FuriXD most-used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuriXD&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=f59e0b&area=true&hide_border=true" alt="FuriXD contribution activity graph" />
 </p>
 
 ---
