@@ -33,7 +33,7 @@ I am a developer interested in applying machine learning and data-driven approac
 **Languages & data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres,pandas,sklearn,matlab" alt="Python, C, C++, Java, SQL, pandas, scikit-learn, and MATLAB" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres,sklearn,matlab" alt="Python, C, C++, Java, SQL, pandas, scikit-learn, and MATLAB" />
 </p>
 
 **Frameworks & platforms**
