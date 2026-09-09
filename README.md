@@ -30,9 +30,23 @@ I am a developer interested in applying machine learning and data-driven approac
 
 ## Technologies
 
-**Languages & data:** Python, C, C++, Java, SQL, pandas, scikit-learn, MATLAB  
-**Frameworks & platforms:** Django, Firebase, MongoDB, MySQL, SQLite, AWS, Google Cloud  
-**Tools:** Git, Linux, Figma
+**Languages & data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,postgres,pandas,sklearn,matlab" alt="Python, C, C++, Java, SQL, pandas, scikit-learn, and MATLAB" />
+</p>
+
+**Frameworks & platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,firebase,mongodb,mysql,sqlite,aws,gcp" alt="Django, Firebase, MongoDB, MySQL, SQLite, AWS, and Google Cloud" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,figma" alt="Git, Linux, and Figma" />
+</p>
 
 ## GitHub analytics
 
